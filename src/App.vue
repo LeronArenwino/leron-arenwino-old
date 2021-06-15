@@ -4,6 +4,7 @@
     <le-about-me></le-about-me>
     <le-portfolio></le-portfolio>
     <le-knowledge></le-knowledge>
+    <le-footer></le-footer>
   </div>
 </template>
 
@@ -12,10 +13,11 @@ import LeHeader from "@/components/LeHeader";
 import LeAboutMe from "@/components/LeAboutMe";
 import LePortfolio from "@/components/LePortfolio";
 import LeKnowledge from "@/components/LeKnowledge";
+import LeFooter from "@/components/LeFooter";
 
 export default {
   name: "App",
-  components: { LeHeader, LeAboutMe, LePortfolio, LeKnowledge },
+  components: { LeHeader, LeAboutMe, LePortfolio, LeKnowledge, LeFooter },
 };
 </script>
 
