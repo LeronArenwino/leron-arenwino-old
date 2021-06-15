@@ -18,17 +18,17 @@
         >
           <img
             width="60"
-            src="img/github-dark.svg"
+            src="@/assets/github-dark.svg"
             class="rounded mx-2"
             alt="logo-github"
         /></a>
         <a
-          href="https://twitter.com/FranciscoDuC"
+          href="https://twitter.com/LeronArenwino"
           rel="noopener"
           target="_blank"
           ><img
             width="60"
-            src="img/twitter-dark.svg"
+            src="@/assets/twitter-dark.svg"
             class="rounded mx-2"
             alt="logo-twitter"
         /></a>
@@ -38,18 +38,18 @@
           target="_blank"
           ><img
             width="60"
-            src="img/instagram-dark.svg"
+            src="@/assets/instagram-dark.svg"
             class="rounded mx-2"
             alt="logo-instagram"
         /></a>
         <a
-          href="https://www.linkedin.com/in/francisco-due%C3%B1as-16b6a61b2/"
+          href="https://www.linkedin.com/in/leronarenwino/"
           rel="noopener"
           target="_blank"
         >
           <img
             width="60"
-            src="img/linkedin-dark.svg"
+            src="@/assets/linkedin-dark.svg"
             class="rounded mx-2"
             alt="logo-linkedin"
         /></a>
