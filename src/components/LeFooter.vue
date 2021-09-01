@@ -33,7 +33,7 @@
             alt="logo-twitter"
         /></a>
         <a
-          href="https://www.instagram.com/leron_arenwino/"
+          href="https://www.instagram.com/leronarenwino/"
           rel="noopener"
           target="_blank"
           ><img
