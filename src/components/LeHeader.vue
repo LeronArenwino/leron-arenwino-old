@@ -5,7 +5,8 @@
   >
     <div class="container">
       <a class="navbar-brand" href="#">
-        <img width="50" src="@/assets/logo.png" alt="logo-leron" /> Francisco Dueñas
+        <img width="50" src="@/assets/logo.png" alt="logo-leron" /> Francisco
+        Dueñas
       </a>
       <button
         class="navbar-toggler"
