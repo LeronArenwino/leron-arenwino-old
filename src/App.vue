@@ -1,26 +1,30 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div>
+    <le-header></le-header>
+    <le-about-me></le-about-me>
+    <le-portfolio></le-portfolio>
+    <le-knowledge></le-knowledge>
+    <le-footer></le-footer>
+  </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import LeHeader from "@/components/LeHeader";
+import LeAboutMe from "@/components/LeAboutMe";
+import LePortfolio from "@/components/LePortfolio";
+import LeKnowledge from "@/components/LeKnowledge";
+import LeFooter from "@/components/LeFooter";
 
 export default {
   name: "App",
-  components: {
-    HelloWorld,
-  },
+  components: { LeHeader, LeAboutMe, LePortfolio, LeKnowledge, LeFooter },
 };
 </script>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Roboto Condensed, sans-serif;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
